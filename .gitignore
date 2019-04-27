@@ -1,0 +1,14 @@
+/target
+/node_modules
+*.iml
+.idea
+.classpath
+.settings
+
+*.log
+
+# HackerRank infrastructure files
+/.c1
+
+# OSX files
+.DS_Store
